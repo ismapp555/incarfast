@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "855494317716",
+    "project_id": "incarfast-9",
+    "storage_bucket": "incarfast-9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855494317716:android:d5b2996061265bd70c0681",
+        "android_client_info": {
+          "package_name": "com.company.incardriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wZtB0glw0vHI07e8ZkGKlG_cJ4D4YSU"
+        },
+        {
+          "current_key": "AIzaSyBXrLjjyXqnzOPGcNxGa_GG_GARR2BgRcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855494317716:android:e0347a2992961cae0c0681",
+        "android_client_info": {
+          "package_name": "com.company.incarfast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wZtB0glw0vHI07e8ZkGKlG_cJ4D4YSU"
+        },
+        {
+          "current_key": "AIzaSyBXrLjjyXqnzOPGcNxGa_GG_GARR2BgRcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
